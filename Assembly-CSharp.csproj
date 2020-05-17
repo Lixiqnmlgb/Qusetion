@@ -51,6 +51,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Loading Screen\Content\Scripts\Core\bl_SceneLoader.cs" />
+     <Compile Include="Assets\Loading Screen\Content\Scripts\Core\bl_SceneLoaderManager.cs" />
+     <Compile Include="Assets\Loading Screen\Content\Scripts\Internal\Enum\bl_SceneLoaderSkip.cs" />
+     <Compile Include="Assets\Loading Screen\Content\Scripts\Internal\Global\bl_SceneLoaderUtils.cs" />
+     <Compile Include="Assets\Loading Screen\Content\Scripts\Internal\Structures\bl_SceneLoaderInfo.cs" />
      <Compile Include="Assets\question\DataTableDBModelBase.cs" />
      <Compile Include="Assets\question\DataTableEntityBase.cs" />
      <Compile Include="Assets\question\QuestionDBModel.cs" />
@@ -59,6 +64,7 @@
      <Compile Include="Assets\question\QuestionTest.cs" />
      <Compile Include="Assets\question\UIMgr.cs" />
      <None Include="Assets\question\Resources\Question.xml" />
+     <None Include="Assets\Loading Screen\Documentation\ReadMe.txt" />
  <Reference Include="UnityEngine.CoreModule">
  <HintPath>D:/installSoftware/Unity2017.4.8/Editor/Data/Managed/UnityEngine/UnityEngine.CoreModule.dll</HintPath>
  </Reference>

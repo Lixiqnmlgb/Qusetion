@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/question/mainss.unity
+- path: Assets/Loading Screen/Example/Scenes/Example 2.unity
   isLoaded: 1
   isActive: 1
